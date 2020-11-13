@@ -1,0 +1,25 @@
+body {
+  margin: auto 5%;
+  background-color: Black;
+  color: DarkGrey;
+  font-size: 1.25rem;
+}
+
+a {
+  color: DarkRed;
+}
+
+a:hover {
+  color: DarkRed;
+}
+
+#dracula > a {
+  font-size: 4rem;
+  color: DarkRed;
+  text-decoration: none;
+}
+
+p {
+  text-indent: 1rem;
+  line-height: 1.25em;
+}
