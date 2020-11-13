@@ -1,54 +1,81 @@
-- name: Chapter 1 - Jonathan Harker's Journal
+- chapter: 1
+  name: Jonathan Harker's Journal
   link: /book/1.html
-- name: Chapter 2 - Jonathan Harker's Journal
+- chapter: 2
+  name: Jonathan Harker's Journal
   link: /book/2.html
-- name: Chapter 3 - Jonathan Harker's Journal
+- chapter: 3
+  name: Jonathan Harker's Journal
   link: /book/3.html
-- name: Chapter 4 - Jonathan Harker's Journal
+- chapter: 4
+  name: Jonathan Harker's Journal
   link: /book/4.html
-- name: Chapter 5 - Letter From Miss Mina Murray To Miss Lucy Westenra
+- chapter: 5
+  name: Letter From Miss Mina Murray To Miss Lucy Westenra
   link: /book/5.html
-- name: Chapter 6 - Mina Murray's Journal
+- chapter: 6
+  name: Mina Murray's Journal
   link: /book/6.html
-- name: Chapter 7 - Cutting From "The Dailygraph", 8 August
+- chapter: 7
+  name: Cutting From "The Dailygraph", 8 August
   link: /book/7.html
-- name: Chapter 8 - Mina Murray's Journal
+- chapter: 8
+  name: Mina Murray's Journal
   link: /book/8.html
-- name: Chapter 9 - Letter, Mina Harker To Lucy Westenra
+- chapter: 9
+  name: Letter, Mina Harker To Lucy Westenra
   link: /book/9.html
-- name: Chapter 10 - Letter, Dr. Seward To Hon. Arthur Holmwood
+- chapter: 10
+  name: Letter, Dr. Seward To Hon. Arthur Holmwood
   link: /book/10.html
-- name: Chapter 11 - Lucy Westenra's Diary
+- chapter: 11
+  name: Lucy Westenra's Diary
   link: /book/11.html
-- name: Chapter 12 - Dr. Seward's Diary
+- chapter: 12
+  name: Dr. Seward's Diary
   link: /book/12.html
-- name: Chapter 13 - Dr. Seward's Diary
+- chapter: 13
+  name: Dr. Seward's Diary
   link: /book/13.html
-- name: Chapter 14 - Mina Harker's Journal
+- chapter: 14
+  name: Mina Harker's Journal
   link: /book/14.html
-- name: Chapter 15 - Dr. Seward's Diary
+- chapter: 15
+  name: Dr. Seward's Diary
   link: /book/15.html
-- name: Chapter 16 - Dr. Seward's Diary
+- chapter: 16
+  name: Dr. Seward's Diary
   link: /book/16.html
-- name: Chapter 17 - Dr. Seward's Diary
+- chapter: 17
+  name: Dr. Seward's Diary
   link: /book/17.html
-- name: Chapter 18 - Dr. Seward's Diary
+- chapter: 18
+  name: Dr. Seward's Diary
   link: /book/18.html
-- name: Chapter 19 - Jonathan Harker's Journal
+- chapter: 19
+  name: Jonathan Harker's Journal
   link: /book/19.html
-- name: Chapter 20 - Jonathan Harker's Journal
+- chapter: 20
+  name: Jonathan Harker's Journal
   link: /book/20.html
-- name: Chapter 21 - Dr. Seward's Diary
+- chapter: 21
+  name: Dr. Seward's Diary
   link: /book/21.html
-- name: Chapter 22 - Jonathan Harker's Journal
+- chapter: 22
+  name: Jonathan Harker's Journal
   link: /book/22.html
-- name: Chapter 23 - Dr. Seward's Diary
+- chapter: 23
+  name: Dr. Seward's Diary
   link: /book/23.html
-- name: Chapter 24 - Dr. Seward's Phonograph Diary
+- chapter: 24
+  name: Dr. Seward's Phonograph Diary
   link: /book/24.html
-- name: Chapter 25 - Dr. Seward's Diary
+- chapter: 25
+  name: Dr. Seward's Diary
   link: /book/25.html
-- name: Chapter 26 - Dr. Seward's Diary
+- chapter: 26
+  name: Dr. Seward's Diary
   link: /book/26.html
-- name: Chapter 27 - Mina Harker's Journal
+- chapter: 27
+  name: Mina Harker's Journal
   link: /book/27.html
