@@ -2,11 +2,11 @@
 {% assign previous_page = page.title | split : " " | last | minus: 1 %}
 <nav>
   {% unless previous_page == 0 %}
-  <a href="/book/{{ previous_page }}.html">Previous - Chapter {{previous_page}}</a>
+  <a href="/dracula/book/{{ previous_page }}.html">Previous - Chapter {{previous_page}}</a>
   {% endunless %}
 
   {% unless next_page == 28 %}
-  <a href="/book/{{ next_page }}.html">Next - Chapter {{next_page}}</a>
+  <a href="/dracula/book/{{ next_page }}.html">Next - Chapter {{next_page}}</a>
   {% endunless %}
 
   <br/>
