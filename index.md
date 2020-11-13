@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Dracula, by Bram Stoker (1897)
 ---
 
 ## by Bram Stoker (1897)
