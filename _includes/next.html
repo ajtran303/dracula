@@ -1,0 +1,4 @@
+{% assign next_page = page.title | split : " " | last | plus: 1 %}
+<nav>
+  <a href="/book/{{ next_page }}.html">Next - Chapter {{next_page}}</a>
+</nav>

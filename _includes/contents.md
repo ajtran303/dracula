@@ -1,5 +1,6 @@
-### Table of Contents
+## Table of Contents
 
 {% for item in site.data.contents %}
-#### [{{ item.name }}]({{ item.link }})
+## [{{ item.chapter }}]({{ item.link }}) - {{ item.name }}
+<!-- ## [{{ item.chapter }}]({{ item.link }}) -->
 {% endfor %}

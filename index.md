@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# Dracula
+{% include title.md %}
 
-## Bram Stoker
+## by Bram Stoker (1897)
 
-{% include contents.md %}
+### [Table of Contents](/contents.html)
